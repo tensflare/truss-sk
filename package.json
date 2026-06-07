@@ -1,6 +1,10 @@
 {
   "name": "@tensflare/sk",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tensflare/truss-sk.git"
+  },
   "publishConfig": { "access": "public" },
   "description": "Semantic Kernel middleware that injects Truss recording into function invocations",
   "type": "module",
